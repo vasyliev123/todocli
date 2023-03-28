@@ -10,6 +10,8 @@ You can add, list and remove tasks
 
 ```cmd
 python -m todocli add "Me new task" -due 21nov
+python -m todocli list
+python -m todocli remove 1
 
 ```
 
