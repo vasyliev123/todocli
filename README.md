@@ -1,10 +1,19 @@
-CLI To-Do list written in python
-You can add, list and remove tasks from a to-do list.
-Tasks are stored in a file called database.json in the same directory as the script.
-==============================
-USAGE:
-    python -m todo [OPTIONS] 
-OPTIONS:
-    add: Add a new task
-    list: List all tasks
-    remove: Remove a task
+
+# CLI To-Do list 
+
+Simple cli to-so list implemented in python.
+You can add, list and remove tasks
+
+
+## Usage/Examples
+
+```cmd
+python -m todocli add "Me new task" -due 21nov
+
+```
+
+
+## Authors
+
+- [@vasyliev123](https://www.github.com/vasyliev123)
+
