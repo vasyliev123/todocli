@@ -1,7 +1,8 @@
 
 # CLI To-Do list 
 
-Simple cli to-so list implemented in python.
+Simple cli to-do list implemented in python.
+
 You can add, list and remove tasks
 
 
